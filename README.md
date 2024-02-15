@@ -7,3 +7,12 @@ __Object Detection__:
 <br>
 We classify objects with a confidence score greater than 50% as our classified objects. 
 To calculate the coordinates of the bounding box corners, we utilize the center coordinates of the objects along with their height and width.
+<br>
+here is a frame of the video
+<br>
+![Image 1](picture/frame.png)
+<br>
+<br>
+here is the video:
+<br>
+![video](picture/video.mp4)
